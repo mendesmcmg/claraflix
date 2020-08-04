@@ -6,7 +6,7 @@ import Carousel from '../../components/Carousel';
 import Footer from '../../components/Footer';
 
 
-function App() {
+function Home() {
   return (
     <div>
       <Menu />
@@ -46,4 +46,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
